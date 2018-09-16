@@ -15,6 +15,7 @@ public class PersonBean {
 	   private JdbcRowSet rowSet = null;
 	   public PersonBean() {
 	      try {
+	    	  
 	         Class.forName(JDBC_DRIVER);
 	         rowSet = new JdbcRowSetImpl();
 	         rowSet.setUrl(DB_URL);
