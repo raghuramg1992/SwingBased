@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_181/lib/rt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Hari/Downloads/miglayout-3.5.5-swing-java14.jar"/>
+	<classpathentry kind="lib" path="F:/raghu/java workouts/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
