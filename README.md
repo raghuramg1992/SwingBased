@@ -1,3 +1,3 @@
 # SwingBased
-SwingBased project that connects with a MySql database
-Standalone project for maintaining person details in database.
+
+SwingBased standalone project that connects with a MySql database for maintaining person details.
